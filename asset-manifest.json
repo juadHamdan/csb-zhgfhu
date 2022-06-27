@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://juadhamdan.github.io/csb-zhgfhu/static/css/main.c0a1f365.chunk.css",
-    "main.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.10e20457.chunk.js",
-    "main.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.10e20457.chunk.js.map",
+    "main.css": "https://juadhamdan.github.io/csb-zhgfhu/static/css/main.86cf7864.chunk.css",
+    "main.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.9dc509ae.chunk.js",
+    "main.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.9dc509ae.chunk.js.map",
     "runtime-main.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/runtime-main.1904de28.js",
     "runtime-main.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/runtime-main.1904de28.js.map",
     "static/js/2.a6868d75.chunk.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/2.a6868d75.chunk.js",
     "static/js/2.a6868d75.chunk.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/2.a6868d75.chunk.js.map",
     "index.html": "https://juadhamdan.github.io/csb-zhgfhu/index.html",
-    "static/css/main.c0a1f365.chunk.css.map": "https://juadhamdan.github.io/csb-zhgfhu/static/css/main.c0a1f365.chunk.css.map",
+    "static/css/main.86cf7864.chunk.css.map": "https://juadhamdan.github.io/csb-zhgfhu/static/css/main.86cf7864.chunk.css.map",
     "static/js/2.a6868d75.chunk.js.LICENSE.txt": "https://juadhamdan.github.io/csb-zhgfhu/static/js/2.a6868d75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1904de28.js",
     "static/js/2.a6868d75.chunk.js",
-    "static/css/main.c0a1f365.chunk.css",
-    "static/js/main.10e20457.chunk.js"
+    "static/css/main.86cf7864.chunk.css",
+    "static/js/main.9dc509ae.chunk.js"
   ]
 }
