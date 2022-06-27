@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://juadhamdan.github.io/csb-zhgfhu/static/css/main.86cf7864.chunk.css",
-    "main.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.9dc509ae.chunk.js",
-    "main.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.9dc509ae.chunk.js.map",
+    "main.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.203871b7.chunk.js",
+    "main.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/main.203871b7.chunk.js.map",
     "runtime-main.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/runtime-main.1904de28.js",
     "runtime-main.js.map": "https://juadhamdan.github.io/csb-zhgfhu/static/js/runtime-main.1904de28.js.map",
     "static/js/2.a6868d75.chunk.js": "https://juadhamdan.github.io/csb-zhgfhu/static/js/2.a6868d75.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1904de28.js",
     "static/js/2.a6868d75.chunk.js",
     "static/css/main.86cf7864.chunk.css",
-    "static/js/main.9dc509ae.chunk.js"
+    "static/js/main.203871b7.chunk.js"
   ]
 }
